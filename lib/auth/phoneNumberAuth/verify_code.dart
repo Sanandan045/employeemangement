@@ -22,7 +22,7 @@ class _VerifyCodeScreenState extends State<VerifyCodeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Verify'),
+        title: Text('Verify Screen'),
       ),
       body: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 20),
