@@ -4,7 +4,12 @@ A new Flutter project.
 
 ### screenshot 
 ![screenshot](IMG-20240814-WA0004.jpg)
-![myimage-alt-tag](expensetracker\lib\screenshot\IMG-20240814-WA0007.jpg)
+![myimage-alt-tag](https://github.com/Sanandan045/employeemangement/blob/main/lib/screenshot/IMG-20240814-WA0004.jpg)
+![myimage-alt-tag](https://github.com/Sanandan045/employeemangement/blob/main/lib/screenshot/IMG-20240814-WA0005.jpg)
+![myimage-alt-tag](https://github.com/Sanandan045/employeemangement/blob/main/lib/screenshot/IMG-20240814-WA0006.jpg)
+![myimage-alt-tag](https://github.com/Sanandan045/employeemangement/blob/main/lib/screenshot/IMG-20240814-WA0007.jpg)
+![myimage-alt-tag](https://github.com/Sanandan045/employeemangement/blob/main/lib/screenshot/IMG-20240814-WA0009.jpg)
+![myimage-alt-tag](https://github.com/Sanandan045/employeemangement/blob/main/lib/screenshot/IMG-20240814-WA0008.jpg)
 
 ## Getting Started
 
