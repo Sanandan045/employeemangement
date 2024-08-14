@@ -1,4 +1,4 @@
-# expensetracker
+# firebase crud application 
 
 A new Flutter project.
 
